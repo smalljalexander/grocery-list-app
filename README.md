@@ -4,7 +4,7 @@ The Grocery List App to keep track of your grocery list while at the store. The 
 Link to app: <a href= "https://grocery-list-crud.herokuapp.com"> Grocery List App </a>
 
 # How It's Made
-<br>Tech used:</br> HTML, CSS, JavaScript, Node.JS and MongoDB
+<b>Tech used:</b> HTML, CSS, JavaScript, Node.JS and MongoDB
 The Grocery List is a CRUD web app where you can add items to the list, cross them off when you get them and delete the list after your done shopping. I used EJS to put the data of the items into the DOM from the MongoDB database.  I used express and Node.js to create the backend server.
 
 # Optimizations
