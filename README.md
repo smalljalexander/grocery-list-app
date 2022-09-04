@@ -1,5 +1,6 @@
 # Grocery List Web App
 The Grocery List App to keep track of your grocery list while at the store. The app lets you add, cross out and uncross and delete grocery items when you are done.
+![](https://github.com/smalljalexander/grocery-list-app/blob/main/grocery%20list.gif)
 
 Link to app: <a href= "https://grocery-list-crud.herokuapp.com"> Grocery List App </a>
 
